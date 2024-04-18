@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ### Screenshots
 
-![Landing page Screenshot ](screenshots/assetplist.png.pngg)
+![Landing page Screenshot ](screenshots/assetplist.png)
 ![Landing page Screenshot ](screenshots/addasset.png)
