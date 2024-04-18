@@ -1,5 +1,7 @@
 import 'package:hive/hive.dart';
-@HiveType(typeId: 0)
+part 'AssetModel.g.dart';
+
+@HiveType(typeId: 1)
 class AssetModel {
   @HiveField(0)
   String name;
